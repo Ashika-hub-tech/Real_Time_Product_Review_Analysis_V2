@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+env/
+venv/
+*_reviews.csv
+*_analysed.csv
+!sample_reviews.csv
+
+.env
+.streamlit/secrets.toml
